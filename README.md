@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Afonso Amaro and I'm from São José do Rio Preto,SP / Brazil (🇧🇷). I've been working as Back-End Developer since 2008 and currently I'm Software Engineer at [Grupo Sifra](https://gruposifra.com.br). I'm passionate about tech news and DIY, so I've created some projects in my [website](https://afonsoamaro.dev), which works as a kind of testing playground and where I share what I think is relevant to other people.
+My name is Afonso Amaro and I'm from São José do Rio Preto, SP / Brazil (🇧🇷). I've been working as Back-End Developer since 2008 and currently I'm Software Engineer at [Grupo Sifra](https://gruposifra.com.br). I'm passionate about tech news and DIY projects, so I've created my [website](https://afonsoamaro.dev), which works as a kind of testing playground and where I share what I think is relevant to other people.
 
 In my free time I like being with my family (👪), to play videogames (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵), to play guitar (🎸) and eventually I like to philosophize about life with a beer (🍺).
+
 
 You can find me at my socials bellow:
 

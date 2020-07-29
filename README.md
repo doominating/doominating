@@ -4,8 +4,7 @@ My name is Afonso Amaro and I'm from São José do Rio Preto,SP / Brazil (🇧�
 
 In my free time I like being with my family (👪), to play videogames (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵), to play guitar (🎸) and eventually I like to philosophize about life with a beer (🍺).
 
-Would you like to find me?
-
+You can find me at my socials bellow:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso.amaro)](https://www.linkedin.com/in/afonso.amaro)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AfonsoAmaroDev)](https://twitter.com/AfonsoAmaroDev)

@@ -38,5 +38,7 @@ You can find me at my socials bellow:
 <br />
 <br />
 
-[![Afonso's github stats](https://github-readme-stats.vercel.app/api?username=doominating&count_private=true&show_icons=true&hide=issues)](https://github.com/doominating/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doominating&layout=compact)](https://github.com/doominating/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doominating&count_private=true&show_icons=true&hide=issues&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doominating&layout=compact&theme=dracula" />
+</div>

@@ -39,8 +39,8 @@ You can find me at my socials bellow:
 <br />
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doominating&count_private=true&show_icons=true&hide=issues&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doominating&layout=compact&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=doominating&count_private=true&show_icons=true&hide=issues&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doominating&layout=compact&theme=dracula" />
 </div>
 
   ![Snake animation](https://github.com/doominating/doominating/blob/output/github-contribution-grid-snake.svg)

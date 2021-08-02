@@ -14,26 +14,29 @@ You can find me at my socials bellow:
 
 ### Languages, Frameworks and Tools:
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org)
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com/)
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](https://www.php.net/)
-[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />](https://laravel.com/)
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://palletsprojects.com/p/flask/)
+[<img align="left" alt="Node.js" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />](https://nodejs.org)
+[<img align="left" alt="Express" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />](https://expressjs.com/)
+[<img align="left" alt="NestJS" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />](https://nestjs.com//)
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)
-[<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
-[<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://reactnative.dev/)
+[<img align="left" alt="PHP" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.php.net/)
+[<img align="left" alt="Laravel" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />](https://laravel.com/)
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.w3schools.com/sql/)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
+[<img align="left" alt="Python" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
+[<img align="left" alt="Flask" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />](https://palletsprojects.com/p/flask/)
+[<img align="left" alt="Django" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />](https://www.djangoproject.com/)
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://hyper.is/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="HTML5" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img align="left" alt="CSS3" width="32px" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+[<img align="left" alt="JavaScript" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[<img align="left" alt="TypeScript" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="React" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />](https://reactjs.org/)
+[<img align="left" alt="Next.JS" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />](https://nextjs.org/)
+
+[<img align="left" alt="MS SQLServer" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://www.microsoft.com/pt-br/sql-server/)
+[<img align="left" alt="MySQL" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" />](https://www.mysql.com/)
+[<img align="left" alt="PostgreSQL" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" />](https://www.postgresql.org/)
+[<img align="left" alt="MongoDB" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
 
 <br />
 <br />

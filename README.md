@@ -11,39 +11,39 @@ You can find me at my socials bellow:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://instagram.com/AfonsoAmaroDev)](https://instagram.com/AfonsoAmaroDev)
 [![Blog Badge](https://img.shields.io/badge/Blog-afonsoamaro.dev-black)](https://afonsoamaro.dev/blog)
 
-
+<div>
 ### Languages, Frameworks and Tools:
 
-[<img align="left" alt="Node.js" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />](https://nodejs.org)
-[<img align="left" alt="Express" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />](https://expressjs.com/)
-[<img align="left" alt="NestJS" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />](https://nestjs.com//)
+  [<img align="left" alt="Node.js" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />](https://nodejs.org)
+  [<img align="left" alt="Express" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />](https://expressjs.com/)
+  [<img align="left" alt="NestJS" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />](https://nestjs.com//)
 
-[<img align="left" alt="PHP" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.php.net/)
-[<img align="left" alt="Laravel" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />](https://laravel.com/)
+  [<img align="left" alt="PHP" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.php.net/)
+  [<img align="left" alt="Laravel" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />](https://laravel.com/)
 
-[<img align="left" alt="Python" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
-[<img align="left" alt="Flask" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />](https://palletsprojects.com/p/flask/)
-[<img align="left" alt="Django" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />](https://www.djangoproject.com/)
+  [<img align="left" alt="Python" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
+  [<img align="left" alt="Flask" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />](https://palletsprojects.com/p/flask/)
+  [<img align="left" alt="Django" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />](https://www.djangoproject.com/)
 
-[<img align="left" alt="HTML5" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img align="left" alt="CSS3" width="32px" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
-[<img align="left" alt="JavaScript" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img align="left" alt="HTML5" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+  [<img align="left" alt="CSS3" width="32px" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+  [<img align="left" alt="JavaScript" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[<img align="left" alt="TypeScript" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
-[<img align="left" alt="React" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />](https://reactjs.org/)
-[<img align="left" alt="Next.JS" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />](https://nextjs.org/)
+  [<img align="left" alt="TypeScript" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+  [<img align="left" alt="React" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />](https://reactjs.org/)
+  [<img align="left" alt="Next.JS" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />](https://nextjs.org/)
 
-[<img align="left" alt="MS SQLServer" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://www.microsoft.com/pt-br/sql-server/)
-[<img align="left" alt="MySQL" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" />](https://www.mysql.com/)
-[<img align="left" alt="PostgreSQL" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" />](https://www.postgresql.org/)
-[<img align="left" alt="MongoDB" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
+  [<img align="left" alt="MS SQLServer" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://www.microsoft.com/pt-br/sql-server/)
+  [<img align="left" alt="PostgreSQL" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" />](https://www.postgresql.org/)
+  [<img align="left" alt="MongoDB" width="32px" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
+</div>
 
 <br />
 <br />
 
 <div>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=doominating&count_private=true&show_icons=true&hide=issues&theme=dracula" />
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doominating&layout=compact&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=doominating&count_private=true&show_icons=true&hide=issues&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doominating&layout=compact&theme=dracula" />
 </div>
 
   ![Snake animation](https://github.com/doominating/doominating/blob/output/github-contribution-grid-snake.svg)

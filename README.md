@@ -39,6 +39,7 @@ You can find me at my socials bellow:
 
 <br />
 <br />
+<p />
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=doominating&count_private=true&show_icons=true&hide=issues&theme=dracula" />
